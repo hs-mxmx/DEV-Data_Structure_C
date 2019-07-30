@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="EstructuraDatosPL1" Database="" Version="10.0.0">
+  <Project Name="PL1" Path="PL1/PL1.project" Active="Yes"/>
+  <Project Name="Main" Path="Main/Main.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="no">
+      <Environment/>
+      <Project Name="PL1" ConfigName="Debug"/>
+      <Project Name="Main" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Main" ConfigName="Release"/>
+      <Project Name="PL1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
